@@ -1,0 +1,38 @@
+*{
+    font-size:calc(1.3em + 1vw);
+}
+
+.f{
+    font-size:1em;
+    font-family: "Times New Roman", sans-serif;
+    text-align: center;
+    padding: 5%;
+}
+
+#val{
+    font-size: 0.9em;
+    text-align: center;
+}
+
+.b{
+    padding-top: 13%;
+    padding-left: 75%;
+
+
+}
+
+#button{
+    font-size: 0.7em;
+    background-color: #2c2c2c;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#button:hover{
+    background-color: black;
+}

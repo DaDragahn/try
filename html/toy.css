@@ -1,0 +1,18 @@
+*{
+    font-size:calc(1.3em + 1vw);
+}
+
+#pad{
+    font-size: 0.6em;
+    text-align: center;
+}
+
+
+img{
+    padding-left: 20%;
+}
+
+#easy{
+    font-size: 1em;
+    text-align: center;
+}
